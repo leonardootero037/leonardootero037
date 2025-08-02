@@ -4,7 +4,7 @@
 Apasionado por la seguridad ofensiva, la protección de sistemas y la automatización. Me dedico a desarrollar herramientas de código en el ámbito de la ciberseguridad.
 
 **Mi enfoque:**
-* **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis de amenazas, respuesta a incidentes.
+* **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, análisis de amenazas, respuesta a incidentes.
 * **Desarrollo:** Creación de herramientas y scripts en Python para optimizar procesos de seguridad y análisis de red.
 
 
