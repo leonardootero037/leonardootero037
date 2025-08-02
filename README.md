@@ -1,4 +1,4 @@
-### Soy [Leonardo Otero]
+### Soy Leonardo Otero
 ### Programador y Analista de Ciberseguridad
 
 Apasionado por la seguridad ofensiva, la protección de sistemas y la automatización. Me dedico a escribir codigo que pueda ser util en el ámbito de la ciberseguridad.
@@ -12,7 +12,7 @@ Apasionado por la seguridad ofensiva, la protección de sistemas y la automatiza
 
 #### Habilidades Clave:
 
-* **Lenguajes:** Python (principal)
+* **Lenguajes:** Python
 * **Seguridad:** Análisis de vulnerabilidades, Analisis de Riesgos, Respuesta a Incidentes, Manejo de Evidencia, Mejores Practicas, SIEM, Firewalls, Control de Acceso, Malware Analysis (básico).
 * **Herramientas:** Wireshark, Nmap.
 
