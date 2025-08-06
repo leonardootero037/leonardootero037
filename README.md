@@ -5,7 +5,7 @@ Apasionado por la seguridad ofensiva, la protección de sistemas y la programaci
 
 **Mi enfoque:**
 * **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, análisis de amenazas, respuesta a incidentes.
-* **Desarrollo:** Creación de herramientas y scripts en Python para optimizar procesos de seguridad y análisis de red.
+* **Desarrollo:** Creación de herramientas y scripts en Python para optimizar procesos de seguridad.
 
 
 ---
