@@ -4,7 +4,7 @@
 Apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Me dedico a desarrollar herramientas de código para el campo de la ciberseguridad.
 
 **Mi enfoque:**
-* **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, análisis de amenazas, respuesta a incidentes.
+* **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, evaluación de riesgos, análisis de amenazas, respuesta a incidentes.
 * **Desarrollo:** Creación de herramientas y scripts en Python para optimizar procesos de seguridad.
 
 
@@ -13,7 +13,7 @@ Apasionado por la seguridad ofensiva, la protección de sistemas y la programaci
 #### Habilidades Clave:
 
 * **Lenguajes:** Python
-* **Seguridad:** Análisis de vulnerabilidades, Análisis de Riesgos, Respuesta a Incidentes, Manejo de Evidencia, Mejores Prácticas.
+* **Seguridad:** Administración de vulnerabilidades, Análisis forense, Respuesta a Incidentes, Manejo de Evidencia, Evaluación de riesgos, Mejores Prácticas.
 * **Sistemas Operativos:** Windows.
 * **Herramientas:** Wireshark, Nmap.
 
