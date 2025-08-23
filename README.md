@@ -13,7 +13,7 @@ Apasionado por la seguridad ofensiva, la protección de sistemas y la programaci
 #### Habilidades Clave:
 
 * **Lenguajes:** Python
-* **Seguridad:** Administración de vulnerabilidades, Análisis forense, Respuesta a Incidentes, Manejo de Evidencia, Evaluación de riesgos, Mejores Prácticas.
+* **Seguridad:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense, Respuesta a Incidentes, Evaluación de riesgos, Manejo de evidencia, Mejores Prácticas.
 * **Sistemas Operativos:** Windows.
 * **Herramientas:** Wireshark, Nmap.
 
