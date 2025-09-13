@@ -14,7 +14,7 @@ Apasionado por la seguridad ofensiva, la protección de sistemas y la programaci
 
 * **Lenguajes:** Python
 * **Seguridad:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense, Respuesta a Incidentes, Evaluación de riesgos, Manejo de evidencia, Mejores Prácticas.
-* **Sistemas Operativos:** Windows.
+* **Sistemas Operativos:** Windows, Linux.
 * **Herramientas:** Wireshark, Nmap.
 
 ---
