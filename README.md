@@ -1,9 +1,9 @@
-# Hola, soy Leonardo Otero
-### Programador y Analista de Ciberseguridad
+# Leonardo Otero
+## Programador y Analista de Ciberseguridad
 
-Apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Me dedico a desarrollar herramientas de código para el campo de la ciberseguridad.
+Un joven Apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Me dedico a desarrollar herramientas de código para el campo de la ciberseguridad.
 
-**Mi enfoque:**
+**Enfoque:**
 * **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, evaluación de riesgos, análisis de amenazas, respuesta a incidentes.
 * **Desarrollo:** Creación de herramientas y scripts en Python para optimizar procesos de seguridad.
 
