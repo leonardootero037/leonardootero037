@@ -1,7 +1,7 @@
 # Leonardo Otero
 ## Programador y Analista de Ciberseguridad
 
-Un joven Apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Me dedico a desarrollar herramientas de código para el campo de la ciberseguridad.
+Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Dedicado a desarrollar herramientas de código para el campo de la ciberseguridad.
 
 **Enfoque:**
 * **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, evaluación de riesgos, análisis de amenazas, respuesta a incidentes.
@@ -21,5 +21,5 @@ Un joven Apasionado por la seguridad ofensiva, la protección de sistemas y la p
 
 #### Proyectos:
 
-* **Asistente General de Analistas de Ciberseguridad (A.G.A.C.):** Herramienta interactiva en Python que proporciona guías para estudiantes y especialistas de ciberseguridad sobre áreas clave del campo, como la mitigación de vulnerabilidades y el uso de comandos de red esenciales.
-    * [Enlace al Repositorio del Asistente](https://github.com/leonardootero037/Asistente-soluciones-vulnerabilidades) 
+* **Asistente General de Analistas de Ciberseguridad (A.G.A.C.):** Herramienta interactiva en Python que proporciona orientación para estudiantes y especialistas de ciberseguridad sobre áreas clave del campo, como la mitigación de vulnerabilidades y el uso de comandos de seguridad esenciales.
+    * [Enlace al Repositorio del Asistente](https://github.com/leonardootero037/asistente-general-analistas-ciberseguridad) 
