@@ -5,7 +5,7 @@ Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la p
 
 **Enfoque:**
 * **Seguridad:** Identificación y mitigación de vulnerabilidades, análisis forense, evaluación de riesgos, análisis de amenazas, respuesta a incidentes.
-* **Desarrollo:** Creación de herramientas y scripts en Python para optimizar procesos de seguridad.
+* **Desarrollo:** Creación de herramientas en Python para orientar sobre ciberseguridad.
 
 
 ---
@@ -13,7 +13,7 @@ Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la p
 #### Habilidades Clave:
 
 * **Lenguajes:** Python
-* **Seguridad:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense, Respuesta a Incidentes, Evaluación de riesgos, Manejo de evidencia, Mejores Prácticas.
+* **Seguridad:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense, Respuesta a Incidentes, Mejores Prácticas.
 * **Sistemas Operativos:** Windows, Linux.
 * **Herramientas:** Wireshark, Nmap.
 
@@ -21,5 +21,5 @@ Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la p
 
 #### Proyectos:
 
-* **Asistente General de Analistas de Ciberseguridad (A.G.A.C.):** Herramienta interactiva en Python que proporciona orientación para estudiantes y especialistas de ciberseguridad sobre áreas clave del campo, como la mitigación de vulnerabilidades y el uso de comandos de seguridad esenciales.
+* **Asistente General de Analistas de Ciberseguridad (A.G.A.C.):** Herramienta interactiva en Python que proporciona orientación para funcionarios no informáticos, estudiantes, y especialistas de ciberseguridad en áreas clave del campo, como la mitigación de vulnerabilidades y el uso de comandos de seguridad esenciales.
     * [Enlace al Repositorio del Asistente](https://github.com/leonardootero037/asistente-general-analistas-ciberseguridad) 
