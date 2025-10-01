@@ -14,8 +14,8 @@ Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la p
 
 * **Lenguajes:** Python
 * **Metodologías:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense digital, Respuesta a incidentes, Recuperación ante desastres
-* **Sistemas Operativos:** Windows, Linux.
-* **Herramientas:** Wireshark, Nmap.
+* **Sistemas Operativos:** Windows, Linux
+* **Herramientas:** Wireshark, Nmap
 
 ---
 
