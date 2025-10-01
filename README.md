@@ -10,10 +10,10 @@ Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la p
 
 ---
 
-#### Habilidades Clave:
+#### Habilidades:
 
 * **Lenguajes:** Python
-* **Seguridad:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense digital, Respuesta a Incidentes, Recuperación ante desastres
+* **Metodologías:** Administración de vulnerabilidades, Administración de riesgos, Análisis forense digital, Respuesta a Incidentes, Recuperación ante desastres
 * **Sistemas Operativos:** Windows, Linux.
 * **Herramientas:** Wireshark, Nmap.
 
