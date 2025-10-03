@@ -4,11 +4,11 @@
 Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Dedicado a desarrollar herramientas de código para el campo de la ciberseguridad.
 
 **Enfoque:**
-* **Seguridad:** análisis forense digital, análisis de amenazas, evaluación de riesgos, respuesta a incidentes
+* **Seguridad:** Análisis Forense Digital, Análisis de Amenazas, Evaluación de Riesgos, Respuesta a incidentes
 * **Desarrollo:** Creación de herramientas interactivas en Python
 
 
----
+
 
 #### Habilidades:
 
@@ -17,7 +17,7 @@ Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la p
 * **Sistemas Operativos:** Windows, Linux
 * **Herramientas:** Wireshark, Nmap
 
----
+
 
 #### Proyectos:
 
