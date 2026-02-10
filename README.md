@@ -1,7 +1,8 @@
 # Leonardo Otero
 ## Programador y Analista de Ciberseguridad
 
-Un joven apasionado por la seguridad ofensiva, la protección de sistemas y la programación. Dedicado a desarrollar herramientas de código para el campo de la ciberseguridad.
+Un joven apasionado por la protección de sistemas y la programación.
+Dedicado a desarrollar herramientas de código para el campo de la ciberseguridad y evaluar riesgos.
 
 **Enfoque:**
 * **Seguridad:** Análisis Forense Digital, Análisis de Amenazas, Evaluación de Riesgos, Respuesta a incidentes
